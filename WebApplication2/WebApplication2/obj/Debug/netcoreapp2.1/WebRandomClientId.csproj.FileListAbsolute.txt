@@ -1,0 +1,14 @@
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebRandomClientId.deps.json
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebRandomClientId.runtimeconfig.json
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebRandomClientId.runtimeconfig.dev.json
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebRandomClientId.dll
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebRandomClientId.pdb
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.csprojAssemblyReference.cache
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.csproj.CoreCompileInputs.cache
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.RazorAssemblyInfo.cache
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.RazorAssemblyInfo.cs
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.AssemblyInfoInputs.cache
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.AssemblyInfo.cs
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.RazorTargetAssemblyInfo.cache
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.dll
+C:\Users\Juancho\Desktop\web_project\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebRandomClientId.pdb
